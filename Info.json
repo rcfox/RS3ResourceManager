@@ -1,0 +1,7 @@
+{
+  "Id": "RS3ResourceManager",
+  "DisplayName": "Resource Manager",
+  "Author": "rcfox",
+  "Version": "1.0.0",
+  "EntryMethod": "RS3ResourceManager.Main.Load"
+}
